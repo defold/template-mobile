@@ -6,8 +6,8 @@ This project was created from the "mobile" project template. This means that the
 - Orientation is fixed vertically
 - Android and iOS icons are set
 - iOS launch images (blank ones) are set
-- Single touch input and mouse click is bound to action "touch"
-- A simple script receives and reacts to input
+- Mouse click/single touch is bound to action "touch"
+- A simple script in a game object is set up to receive and react to input
 - Accelerometer input is turned off (for better battery life)
 - A custom render script is used with options for stretched, fit or fixed
   projection
