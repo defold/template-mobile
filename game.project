@@ -3,7 +3,6 @@ title = My project
 
 [bootstrap]
 main_collection = /main/main.collectionc
-render = /render/mobile.renderc
 
 [input]
 game_binding = /input/game.input_bindingc

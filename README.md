@@ -9,8 +9,6 @@ This project was created from the "mobile" project template. This means that the
 - Mouse click/single touch is bound to action "touch"
 - A simple script in a game object is set up to receive and react to input
 - Accelerometer input is turned off (for better battery life)
-- A custom render script is used with options for stretched, fit or fixed
-  projection
 
 [Build and run](defold://build) to see it in action. You can of course alter these settings to fit your needs.
 
