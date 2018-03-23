@@ -1,6 +1,6 @@
 # Welcome to Defold
 
-This project was created from the "mobile" project template. This means that the settings in [game.project](defold://open?resource=/game.project) have been changed to be suitable for a mobile game:
+This project was created from the "mobile" project template. This means that the settings in ["game.project"](defold://open?path=/game.project) have been changed to be suitable for a mobile game:
 
 - The screen size is set to 640x1136
 - Orientation is fixed vertically
