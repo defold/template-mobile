@@ -21,6 +21,7 @@ app_icon_57x57 = /assets/app_icons/icon_57.png
 app_icon_114x114 = /assets/app_icons/icon_114.png
 app_icon_72x72 = /assets/app_icons/icon_72.png
 app_icon_144x144 = /assets/app_icons/icon_144.png
+app_icon_167x167 = /assets/app_icons/icon_167.png
 launch_image_320x480 = /assets/launch_images/ios_launch_320x480.png
 launch_image_640x960 = /assets/launch_images/ios_launch_640x960.png
 launch_image_640x1136 = /assets/launch_images/ios_launch_640x1136.png
@@ -31,13 +32,14 @@ launch_image_1024x768 = /assets/launch_images/ios_launch_1024x768.png
 launch_image_1242x2208 = /assets/launch_images/ios_launch_1242x2208.png
 launch_image_2208x1242 = /assets/launch_images/ios_launch_2208x1242.png
 launch_image_2048x1536 = /assets/launch_images/ios_launch_2048x1536.png
-bundle_identifier = com.example.todo
-app_icon_167x167 = /assets/app_icons/icon_167.png
 launch_image_2048x2732 = /assets/launch_images/ios_launch_2048x2732.png
 launch_image_2732x2048 = /assets/launch_images/ios_launch_2732x2048.png
 launch_image_1334x750 = /assets/launch_images/ios_launch_1334x750.png
 launch_image_1125x2436 = /assets/launch_images/ios_launch_1125x2436.png
 launch_image_2436x1125 = /assets/launch_images/ios_launch_2436x1125.png
+launch_image_1668x2224 = /assets/launch_images/ios_launch_1668x2224.png
+launch_image_2224x1668 = /assets/launch_images/ios_launch_2224x1668.png
+bundle_identifier = com.example.todo
 
 [osx]
 bundle_identifier = com.example.todo
