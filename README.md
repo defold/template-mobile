@@ -3,6 +3,7 @@
 This project was created from the "mobile" project template. This means that the settings in ["game.project"](defold://open?path=/game.project) have been changed to be suitable for a mobile game:
 
 - The screen size is set to 640x1136
+- The projection is set to Fixed Fit
 - Orientation is fixed vertically
 - Android and iOS icons are set
 - iOS launch images (blank ones) are set
