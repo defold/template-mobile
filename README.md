@@ -6,7 +6,6 @@ This project was created from the "mobile" project template. This means that the
 - The projection is set to Fixed Fit
 - Orientation is fixed vertically
 - Android and iOS icons are set
-- iOS launch images (blank ones) are set
 - Mouse click/single touch is bound to action "touch"
 - A simple script in a game object is set up to receive and react to input
 - Accelerometer input is turned off (for better battery life)
