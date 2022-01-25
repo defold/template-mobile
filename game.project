@@ -23,6 +23,7 @@ app_icon_72x72 = /assets/app_icons/icon_72.png
 app_icon_144x144 = /assets/app_icons/icon_144.png
 app_icon_167x167 = /assets/app_icons/icon_167.png
 bundle_identifier = com.example.todo
+icons_asset = /assets/Assets.car
 
 [osx]
 bundle_identifier = com.example.todo
@@ -42,3 +43,4 @@ shared_state = 1
 [physics]
 gravity_y = -1000.0
 scale = 0.01
+
